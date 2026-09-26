@@ -1,0 +1,22 @@
+langchain
+langchain-groq
+dotenv
+ipykernel
+langgraph
+streamlit
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+pypdf
+
+# langchain-openai
+# langchain-google-genai
+# langchain-anthropic
+# streamlit
+# langchain-ollama
+# pypdf
+# beautifulsoup4
+# wikipedia
+# langchain-text-splitters
+# langchain-chroma
+# pydantic
